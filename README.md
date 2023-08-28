@@ -9,7 +9,7 @@
 
 ## README.md must consist of the following information:
 
-#### Team Name -
+#### Team Name - Grand Glory
 #### Problem Statement - 
 #### Team Leader Email -
 
