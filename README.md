@@ -10,8 +10,8 @@
 ## README.md must consist of the following information:
 
 #### Team Name - Grand Glory
-#### Problem Statement - 
-#### Team Leader Email -
+#### Problem Statement - Real-Time High Scale Financial Fraud Risk Management
+#### Team Leader Email - isonpraveen@gmail.com
 
 ## A Brief of the Prototype:
   This section must include UML Diagrams and prototype description
